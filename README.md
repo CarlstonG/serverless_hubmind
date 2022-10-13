@@ -1,6 +1,5 @@
 
 
-For the most up-to-date documentation go to: [https://docs.serverless.page](https://docs.serverless.page/getting-started/welcome)
 
 ## Get Started
 
